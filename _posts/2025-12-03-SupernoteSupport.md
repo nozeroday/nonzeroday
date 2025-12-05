@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Supernote Technical Support"
+published: false
 author: "Non-Zero Day"
 tags: "Supernote"
 excerpt_separator: <!--more-->
